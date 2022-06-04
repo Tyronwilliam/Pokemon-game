@@ -1,7 +1,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-(https://github.com/Tyronwilliam/Pokemon-game/issues/1#issue-1260873535)
+![Pokemon Preview](https://github.com/Tyronwilliam/Pokemon-game/issues/1#issue-1260873535)
 
 
 Here is a pokemon card game, I made it for a technical test, you can press the start button to start the game then you have to press stop or let the countdown to 0 to draw a card if you are curious check the link.  -> : https://pokemon-game-5488h59qz-tyronwilliam.vercel.app/
