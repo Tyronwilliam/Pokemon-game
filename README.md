@@ -25,9 +25,7 @@ git clone https://github.com/Tyronwilliam/Pokemon-game
 2. Open VS Code
 3. copy paste the 1 step
 3. npm start
-```sh
-ctrl+k v
-```
+
 
 
 <!-- CONTACT -->
