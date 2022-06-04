@@ -1,0 +1,223 @@
+{
+  "pokemons": [
+    {
+      "id": 1,
+      "name": "Germignon",
+      "level": 80,
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png",
+      "abilities": [
+        {
+          "name": "Vampigrain",
+          "icon": "🌿",
+          "power": 60,
+          "description": "Pokem ipsum dolor sit amet Technical Machine Shuckle Magneton Earthquake Marsh Badge Raichu. Dragon Pokemon Fan Club Chairman Golem Dodrio Psychic to denounce the evils of truth and love Marshtomp. Earth Badge Shuckle Mew Celadon Department Store Snorlax"
+        }
+      ],
+      "background_color": "#E0ED94"
+    },
+    {
+      "id": 2,
+      "name": "Kaiminus",
+      "level": 28,
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/2.png",
+      "abilities": [
+        {
+          "name": "Foam",
+          "icon": "💧",
+          "power": 30,
+          "description": "Pokem ipsum dolor sit amet Technical Machine Shuckle Magneton Earthquake Marsh Badge Raichu. Dragon Pokemon Fan Club Chairman Golem Dodrio Psychic to denounce the evils of truth and love Marshtomp. Earth Badge Shuckle Mew Celadon Department Store Snorlax"
+        },
+        {
+          "name": "Hydrocannon",
+          "icon": "💧",
+          "power": 150,
+          "description": "Pokem ipsum dolor sit amet Technical Machine Shuckle Magneton Earthquake Marsh Badge Raichu. Dragon Pokemon Fan Club Chairman Golem Dodrio Psychic to denounce the evils of truth and love Marshtomp. Earth Badge Shuckle Mew Celadon Department Store Snorlax"
+        }
+      ],
+      "background_color": "#A1E3FF"
+    },
+    {
+      "id": 3,
+      "name": "Eevee",
+      "level": 12,
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/3.png",
+      "abilities": [
+        {
+          "name": "Charm",
+          "icon": "🔶",
+          "power": 10,
+          "description": "Pokem ipsum dolor sit amet Technical Machine Shuckle Magneton Earthquake Marsh Badge Raichu. Dragon Pokemon Fan Club Chairman Golem Dodrio Psychic to denounce the evils of truth and love Marshtomp. Earth Badge Shuckle Mew Celadon Department Store Snorlax"
+        }
+      ],
+      "background_color": "#EDE8E7"
+    },
+    {
+      "id": 4,
+      "name": "Keunotor",
+      "level": 80,
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png",
+      "abilities": [
+        {
+          "name": "Charge",
+          "icon": "🔶",
+          "power": 20,
+          "description": "Pokem ipsum dolor sit amet Technical Machine Shuckle Magneton Earthquake Marsh Badge Raichu. Dragon Pokemon Fan Club Chairman Golem Dodrio Psychic to denounce the evils of truth and love Marshtomp. Earth Badge Shuckle Mew Celadon Department Store Snorlax"
+        },
+        {
+          "name": "Ultralaser",
+          "icon": "🔶",
+          "power": 150,
+          "description": "Pokem ipsum dolor sit amet Technical Machine Shuckle Magneton Earthquake Marsh Badge Raichu. Dragon Pokemon Fan Club Chairman Golem Dodrio Psychic to denounce the evils of truth and love Marshtomp. Earth Badge Shuckle Mew Celadon Department Store Snorlax"
+        },
+        {
+          "name": "Damocles",
+          "icon": "🔶",
+          "power": 80,
+          "description": "Pokem ipsum dolor sit amet Technical Machine Shuckle Magneton Earthquake Marsh Badge Raichu. Dragon Pokemon Fan Club Chairman Golem Dodrio Psychic to denounce the evils of truth and love Marshtomp. Earth Badge Shuckle Mew Celadon Department Store Snorlax"
+        }
+      ],
+      "background_color": "#EDE8E7"
+    },
+    {
+      "id": 5,
+      "name": "Draco",
+      "level": 92,
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/5.png",
+      "abilities": [
+        {
+          "name": "Dragontail",
+          "icon": "🐲",
+          "power": 84,
+          "description": "Pokem ipsum dolor sit amet Technical Machine Shuckle Magneton Earthquake Marsh Badge Raichu. Dragon Pokemon Fan Club Chairman Golem Dodrio Psychic to denounce the evils of truth and love Marshtomp. Earth Badge Shuckle Mew Celadon Department Store Snorlax"
+        },
+        {
+          "name": "Dragonclaw",
+          "icon": "🐲",
+          "power": 120,
+          "description": "Pokem ipsum dolor sit amet Technical Machine Shuckle Magneton Earthquake Marsh Badge Raichu. Dragon Pokemon Fan Club Chairman Golem Dodrio Psychic to denounce the evils of truth and love Marshtomp. Earth Badge Shuckle Mew Celadon Department Store Snorlax"
+        }
+      ],
+      "background_color": "#8C7385"
+    },
+    {
+      "id": 6,
+      "name": "Pikachu",
+      "level": 30,
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png",
+      "abilities": [
+        {
+          "name": "Flash",
+          "icon": "⚡",
+          "power": 40,
+          "description": "Pokem ipsum dolor sit amet Technical Machine Shuckle Magneton Earthquake Marsh Badge Raichu. Dragon Pokemon Fan Club Chairman Golem Dodrio Psychic to denounce the evils of truth and love Marshtomp. Earth Badge Shuckle Mew Celadon Department Store Snorlax"
+        },
+        {
+          "name": "Thunder",
+          "icon": "⚡",
+          "power": 90,
+          "description": "Pokem ipsum dolor sit amet Technical Machine Shuckle Magneton Earthquake Marsh Badge Raichu. Dragon Pokemon Fan Club Chairman Golem Dodrio Psychic to denounce the evils of truth and love Marshtomp. Earth Badge Shuckle Mew Celadon Department Store Snorlax"
+        }
+      ],
+      "background_color": "#FFEDB5"
+    },
+    {
+      "id": 7,
+      "name": "Ponyta",
+      "level": 34,
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7.png",
+      "abilities": [
+        {
+          "name": "Flames",
+          "icon": "🔥",
+          "power": 45,
+          "description": "Pokem ipsum dolor sit amet Technical Machine Shuckle Magneton Earthquake Marsh Badge Raichu. Dragon Pokemon Fan Club Chairman Golem Dodrio Psychic to denounce the evils of truth and love Marshtomp. Earth Badge Shuckle Mew Celadon Department Store Snorlax"
+        },
+        {
+          "name": "Flame thrower",
+          "icon": "🔥",
+          "power": 95,
+          "description": "Pokem ipsum dolor sit amet Technical Machine Shuckle Magneton Earthquake Marsh Badge Raichu. Dragon Pokemon Fan Club Chairman Golem Dodrio Psychic to denounce the evils of truth and love Marshtomp. Earth Badge Shuckle Mew Celadon Department Store Snorlax"
+        }
+      ],
+      "background_color": "#8C7385"
+    },
+    {
+      "id": 8,
+      "name": "Staraptor",
+      "level": 86,
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/8.png",
+      "abilities": [
+        {
+          "name": "Air slicer",
+          "icon": "💨",
+          "power": 30,
+          "description": "Pokem ipsum dolor sit amet Technical Machine Shuckle Magneton Earthquake Marsh Badge Raichu. Dragon Pokemon Fan Club Chairman Golem Dodrio Psychic to denounce the evils of truth and love Marshtomp. Earth Badge Shuckle Mew Celadon Department Store Snorlax"
+        }
+      ],
+      "background_color": "#89ABE4"
+    },
+    {
+      "id": 9,
+      "name": "Groudon",
+      "level": 99,
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/9.png",
+      "abilities": [
+        {
+          "name": "Earthquake",
+          "icon": "🗿",
+          "power": 75,
+          "description": "Pokem ipsum dolor sit amet Technical Machine Shuckle Magneton Earthquake Marsh Badge Raichu. Dragon Pokemon Fan Club Chairman Golem Dodrio Psychic to denounce the evils of truth and love Marshtomp. Earth Badge Shuckle Mew Celadon Department Store Snorlax"
+        },
+        {
+          "name": "Landslide",
+          "icon": "🗿",
+          "power": 55,
+          "description": "Pokem ipsum dolor sit amet Technical Machine Shuckle Magneton Earthquake Marsh Badge Raichu. Dragon Pokemon Fan Club Chairman Golem Dodrio Psychic to denounce the evils of truth and love Marshtomp. Earth Badge Shuckle Mew Celadon Department Store Snorlax"
+        }
+      ],
+      "background_color": "#EB8D5C"
+    },
+    {
+      "id": 10,
+      "name": "Phyllali",
+      "level": 120,
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10.png",
+      "abilities": [
+        {
+          "name": "Bite",
+          "icon": "🌿",
+          "power": 60,
+          "description": "Pokem ipsum dolor sit amet Technical Machine Shuckle Magneton Earthquake Marsh Badge Raichu. Dragon Pokemon Fan Club Chairman Golem Dodrio Psychic to denounce the evils of truth and love Marshtomp. Earth Badge Shuckle Mew Celadon Department Store Snorlax"
+        },
+        {
+          "name": "Green storm",
+          "icon": "🌿",
+          "power": 190,
+          "description": "Pokem ipsum dolor sit amet Technical Machine Shuckle Magneton Earthquake Marsh Badge Raichu. Dragon Pokemon Fan Club Chairman Golem Dodrio Psychic to denounce the evils of truth and love Marshtomp. Earth Badge Shuckle Mew Celadon Department Store Snorlax"
+        }
+      ],
+      "background_color": "#76C69C"
+    },
+    {
+      "id": 11,
+      "name": "Beldeneige",
+      "level": 120,
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/11.png",
+      "abilities": [
+        {
+          "name": "Blizzard",
+          "icon": "❄️",
+          "power": 90,
+          "description": "Pokem ipsum dolor sit amet Technical Machine Shuckle Magneton Earthquake Marsh Badge Raichu. Dragon Pokemon Fan Club Chairman Golem Dodrio Psychic to denounce the evils of truth and love Marshtomp. Earth Badge Shuckle Mew Celadon Department Store Snorlax"
+        },
+        {
+          "name": "Ice storm",
+          "icon": "❄️",
+          "power": 115,
+          "description": "Pokem ipsum dolor sit amet Technical Machine Shuckle Magneton Earthquake Marsh Badge Raichu. Dragon Pokemon Fan Club Chairman Golem Dodrio Psychic to denounce the evils of truth and love Marshtomp. Earth Badge Shuckle Mew Celadon Department Store Snorlax"
+        }
+      ],
+      "background_color": "#86ABC2"
+    }
+  ]
+}
