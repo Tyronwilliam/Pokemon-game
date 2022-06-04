@@ -34,7 +34,7 @@ ctrl+k v
 <!-- CONTACT -->
 ## Contact
 
-Project Link: [https://github.com/github_username/github_repo](https://github.com/github_username/github_repo)
+Project Link: [https://github.com/github_username/github_repo](https://github.com/Tyronwilliam/Pokemon-game)
 
 
 
