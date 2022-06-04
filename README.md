@@ -1,6 +1,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 
 Here is a pokemon card game, I made it for a technical test, you can press the start button to start the game then you have to press stop or let the countdown to 0 to draw a card if you are curious check the link.  -> : https://pokemon-game-5488h59qz-tyronwilliam.vercel.app/
