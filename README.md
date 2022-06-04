@@ -21,7 +21,7 @@ To get a local copy up and running follow these simple steps.
  
 1. Clone the repo
 ```sh
-git clone https://github.com/NicolasBrondin/basic-readme-template
+git clone https://github.com/Tyronwilliam/Pokemon-game
 ```
 2. Open VS Code
 3. Install Markdown Preview Enhancement plugin
