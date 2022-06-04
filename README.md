@@ -2,7 +2,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 Here a card pokemon game, i made it for a technical test, you can press the button start to begin the game then you have to press stop or let the countdown to 0 for draw a card if your curious checkthe link -> : https://NicolasBrondin.github.io/basic-readme-template/
 
@@ -24,8 +23,8 @@ To get a local copy up and running follow these simple steps.
 git clone https://github.com/Tyronwilliam/Pokemon-game
 ```
 2. Open VS Code
-3. Install Markdown Preview Enhancement plugin
-3. Open the README.md file and execute the following command
+3. copy paste the 1 step
+3. npm start
 ```sh
 ctrl+k v
 ```
