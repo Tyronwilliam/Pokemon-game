@@ -4,7 +4,7 @@
 
 [![Capture.png](https://i.postimg.cc/8C0qfw3G/Capture.png)](https://postimg.cc/wtDWS5g4)
 
-Here is a pokemon card game, I made it for a technical test, you can press the start button to start the game then you have to press stop or let the countdown to 0 to draw a card if you are curious check the link.  -> : https://pokemon-game-5488h59qz-tyronwilliam.vercel.app/
+Here is a pokemon card game, I made it for a technical test, you can press the start button to start the game then you have to press stop or let the countdown to 0 to draw a card, you can't draw two same card so if it's happen just press the button start and if you are curious check the link.  -> : https://pokemon-game-5488h59qz-tyronwilliam.vercel.app/
 
 WARNING : This game is no more responsive to : 1024px
 
